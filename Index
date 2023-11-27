@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-
-<html lang="pt-br">
-
+ <html lang="pt-br">
 <head>
-
-<title>Fanpage de passarinho</title>
-
-<meta charset="utf-8">
-
+  <title>Fanpage de passarinho</title>
+  <meta charset="utf-8">
 </head>
 
 <body>
 
-<h1>Perfil #passarinhosoninstagram</h1>
+  <h1>Perfil #passarinhosoninstagram</h1>
 
-<img src="f.png">
+  <img src="f.png">
 
 </body>
 
